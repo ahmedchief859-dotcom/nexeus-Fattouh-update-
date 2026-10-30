@@ -1,0 +1,8 @@
+minimumReleaseAgeExclude:
+  - '@next/*'
+  - next
+
+allowBuilds:
+  '@firebase/util': true
+  better-sqlite3: true
+  protobufjs: true
